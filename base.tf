@@ -9,6 +9,6 @@ terraform {
 provider "aws" {
   profile = "rprofile" # AWS Credentials Profile configured on your local desktop terminal  $HOME/.aws/credentials
   region  = "ap-south-1"
-  access_key = "AKIAZYCCNWPBQEY7HS7E"
-  secret_key = "Wx778Qn+OER2oE6IAfcu2vs7PO6lGKk/XX5Szuvj"
+  access_key = "AKIAZYCCNWPBYMVSUIIQ"
+  secret_key = "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"
 }
